@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @zhequan00
-- 👀 I’m interested in Cyber Security
+- 👋 Hello, I’m @zhequan
+- 👀 I’m interested in Cyber Security and Data Protection.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: zhequan05@gmail.com
