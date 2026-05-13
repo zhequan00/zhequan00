@@ -1,6 +1,6 @@
 - 👋 Hello, I’m @zhequan
 - 👀 I’m interested in Cyber Security and Cloud.
-- 🌱 I’m currently learning AWS cloud services.
+- 🌱 I’m currently learning AWS cloud services and Terraform by building Cloudshelf
 - 📫 How to reach me: zhequan05@gmail.com
 
 <!---
